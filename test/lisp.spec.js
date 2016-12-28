@@ -1,4 +1,4 @@
-// https://github.com/maryrosecook/littlelisp/blob/master/littlelisp.spec.js used as a reference
+// tests (and only tests) were used as a reference from https://github.com/maryrosecook/littlelisp/blob/master/littlelisp.spec.js
 
 import {Interpreter} from '../src/common/lisp';
 import {expect} from 'chai';
