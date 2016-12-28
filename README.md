@@ -6,3 +6,5 @@ It is turing-complete: "if" operator is not presented, but "while" loops exists.
    
 #### links
 https://github.com/scijs/ndarray API is used as a reference of ndarray, ops, and blas.
+
+https://en.wikipedia.org/wiki/Greenspun's_tenth_rule
